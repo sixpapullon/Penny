@@ -1,2 +1,2 @@
 # Penny
-A blog belong to us .
+A blog belongs to us .
